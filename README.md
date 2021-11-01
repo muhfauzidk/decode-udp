@@ -1,5 +1,5 @@
 # decode-udp
-decode UDP header in hexadecimal with Java.
+decode UDP header in hexadecimal dengan Java.
 
 ## Run script
 Simpan dan run file DecodeUDP.java
