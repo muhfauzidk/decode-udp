@@ -5,11 +5,12 @@ decode UDP header in hexadecimal with Java.
 Simpan dan run file DecodeUDP.java
 
 ## Screenshot input script
-Input UDP header in hexadecimal:
+Input bebas tetapi harus 16 digit. Contoh input:
+
 ``` js
-System.out.print("Input UDP header in hexadecimal: ");
-Scanner s = new Scanner(System.in);
-String str = s.nextLine();
-String substr = "";
+CB84000D001C001C
 ```
-![input]()
+![input](https://github.com/muhfauzidk/decode-udp/blob/cd7a628c28720b9d385c69cb4ba5a2fc736a0698/input.png)
+
+## Screenshot output script
+![output](https://github.com/muhfauzidk/decode-udp/blob/cd7a628c28720b9d385c69cb4ba5a2fc736a0698/output.png)
