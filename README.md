@@ -5,7 +5,7 @@ decode UDP header dalam hexadecimal dengan Java.
 Simpan dan run file DecodeUDP.java
 
 ## Screenshot input script
-Input bebas tetapi harus 16 digit. Contoh input:
+Input dalam bentuk hexadecimal 16 digit. Contoh input:
 
 ``` js
 CB84000D001C001C
